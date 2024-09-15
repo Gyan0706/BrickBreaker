@@ -71,5 +71,7 @@ Have ideas or improvements for the Brick Breaker Game? Fork the repository and s
 # Contact 📬
 For any questions or feedback, feel free to reach out! 👋
 
+Happy Coding! 🎉
+
 
 
